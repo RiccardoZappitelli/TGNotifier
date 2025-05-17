@@ -1,5 +1,5 @@
 # TGNotifier
-CLI Notifier for Telegram. One of my first programs in GO
+CLI Notifier for Telegram. I just wanted to do something in go.
 
 config.json
 ```json
