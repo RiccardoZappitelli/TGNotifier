@@ -5,6 +5,5 @@ config.json
 ```json
 {
   "token":""
-  "chatid"1234567
-}
-```
+  "chatid":1234567
+}```
