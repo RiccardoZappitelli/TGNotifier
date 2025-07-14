@@ -16,7 +16,7 @@ type UserInfo struct {
 func getUserInfo(filename string) (*UserInfo, error) {
 	file, err := os.Open("config.json")
 	if err != nil {
-		//handle nigger
+		return nil, err
 	}
 	defer file.Close()
 
